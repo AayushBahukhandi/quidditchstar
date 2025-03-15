@@ -29,7 +29,7 @@ export const siteConfig: SiteConfig = {
   },
   favicon: [    
     {
-      src: '/favicon/quidditch.jpg',    
+      src: '/favicon/quidditch.png',    
     }
   ]
 }
