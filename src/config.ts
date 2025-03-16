@@ -60,7 +60,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'Discord',
       icon: 'fa6-brands:discord',
-      url: 'https://discord.gg/aayushbahukhandi',
+      url: 'https://discord.gg/vTvQBqe56V',
     },
     {
       name: 'GitHub',
