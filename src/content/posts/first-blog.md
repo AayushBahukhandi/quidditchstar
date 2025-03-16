@@ -2,11 +2,11 @@
 title: Docker Basics Command
 published: 2025-03-15
 updated: 2025-03-15
-description: 'Docker Basics command list'
-image: '../../assets/images/docker_log.webp'
-tags: [Docker]
-category: 'Development'
-draft: false 
+description: Docker Basics command list
+image: ../../assets/images/docker_log.webp
+tags: ["Docker"]
+category: Development
+draft: false
 ---
 # Essential Docker Commands and Concepts
 

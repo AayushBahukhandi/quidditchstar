@@ -3,10 +3,9 @@ dist/
 
 # generated types
 .astro/
-
 # dependencies
 node_modules/
-
+src/content/posts/.obsidian/
 # logs
 npm-debug.log*
 yarn-debug.log*
